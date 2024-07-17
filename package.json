@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "flask": "^0.2.10",
+    "flask-cors": "^0.0.1",
+    "numpy": "^0.0.1",
+    "pillow": "^0.0.9",
+    "scikit-learn": "^0.1.0"
+  }
+}
