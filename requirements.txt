@@ -1,6 +1,5 @@
-Flask
-Flask-CORS
-Pillow
-numpy
-scikit-learn
-gunicorn
+Flask==2.0.1
+Flask-CORS==3.0.10
+Pillow-SIMD==7.0.0.post3
+numpy==1.21.1
+scikit-learn==0.24.2
